@@ -18,5 +18,5 @@ Noch ein paar Hinweise:
 dass der Button zum "Use CV2" auf aus ist, anstonsten crasht das Programm.
 
 - Wenn man einen Berg erzeugt hat und nochmal einen erzeugen will, sollte am besten zuerst der alte Berg gelöscht werden,
-außerdem muss bei der erneuten Erzeugung das Baumobjekt nicht nochmal ausgewählt werden. (Außer man möchte eine anderes wählen).
+außerdem muss bei der erneuten Erzeugung das Baumobjekt nicht nochmal ausgewählt werden. (Außer man möchte ein anderes wählen).
 
