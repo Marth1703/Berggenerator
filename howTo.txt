@@ -1,0 +1,22 @@
+Berggenerator How To:
+
+Dadurch, dass wir in unserem Code Pfade verwenden, die direkt auf das Betriebssystem des Benutzers zugreifen, 
+ist die beste Form unserer Abgabe das Code-File selbst. Das kann einfach in ein neues Blenderskript eingefügt werden.
+Hier müssen dann nur noch die 12 vorgefertigten Pfade angepasst werden.
+Anbei sind alle Images in Reihenfolge nummeriert und im Code finden sich die richtigen Referenzen zu den Images.
+Diese müssen dann nur noch für den jeweiligen Nutzer vervollständigt werden (Zeile 23-34, sie müssen nach diesem Schema
+mit doppeltem Slash eingetragen werden: "C://Users//name//...//01.rock_normal.jpg").
+
+Danach kann man den Code einfach in Blender runnen und bekommt darauf im Scene-Tab das Panel unseres Generators zu sehen.
+
+Dann muss zuerst ein Objekt ausgewählt werden, welches auf dem Berg platziert werden soll, wir haben der Abgabe
+ein Beispielobjekt beigefügt. Danach kann man dann auf den Button zur Heightmapwahl drücken.
+Auch hierfür haben wir die beiden Heightmaps beigelegt, welche wir während der Präsentation vorgestellt haben.
+
+Noch ein paar Hinweise: 
+- Sollten Sie auf Ihrem Rechner kein CV2 installiert haben, dann schauen Sie vor dem generieren,
+dass der Button zum "Use CV2" auf aus ist, anstonsten crasht das Programm.
+
+- Wenn man einen Berg erzeugt hat und nochmal einen erzeugen will, sollte am besten zuerst der alte Berg gelöscht werden,
+außerdem muss bei der erneuten Erzeugung das Baumobjekt nicht nochmal ausgewählt werden. (Außer man möchte eine anderes wählen).
+
